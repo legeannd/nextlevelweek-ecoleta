@@ -2,7 +2,7 @@
 
 ![](uploads/Capa.png)
 
-O Ecoleta é aplicativo que reúne pontos de coleta de resíduos recicláveis, facilitando a comunicação entre os pontos de coleta e as pessoas que querem descartar seus resíduos recicláveis corretamente e foi desenvolvido durante a Next Level Week #01 da Rocketseat.
+O Ecoleta é um aplicativo que reúne pontos de coleta de resíduos recicláveis, facilitando a comunicação entre os pontos de coleta e as pessoas que querem descartar seus resíduos recicláveis corretamente e foi desenvolvido durante a Next Level Week #01 da Rocketseat.
 
 ## Como instalar
 Para instalar o projeto, você irá precisar ter o Node e o NPM ou Yarn instalados para baixar as dependências.
